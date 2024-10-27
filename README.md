@@ -1,6 +1,6 @@
-# 🎃 Halloween Landing Page
+# 🎃 Happy Halloween
 
-![Halloween Landing Page Preview](assets/screenshot.png)
+![Halloween Preview](assets/images/happyhalloween.png)
 
 Welcome to the Halloween-themed landing page! This project brings a festive touch with eerie graphics, animations, and interactive elements to celebrate Halloween. Check it out live [here](https://halloween.tholumuzi.co.za).
 
