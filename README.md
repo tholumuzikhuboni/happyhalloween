@@ -1,4 +1,4 @@
-# 🎃 Happy Halloween
+# 🎃 Halloween
 
 ![Halloween Preview](assets/images/happyhalloween.png)
 
